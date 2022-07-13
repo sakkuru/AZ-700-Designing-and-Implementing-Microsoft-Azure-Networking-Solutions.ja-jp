@@ -19,7 +19,7 @@ ms.locfileid: "138132290"
 
 以下の概略図は、この演習でデプロイする環境を示しています。
 
-    ![Picture 14](../media/exercise-traffic-manager-environment-diagram.png)
+![Picture 14](../media/exercise-traffic-manager-environment-diagram.png)
 
  この演習では、以下のことを行います。
 
@@ -51,7 +51,7 @@ ms.locfileid: "138132290"
    | SKU とサイズ     | **[Standard S1 100 total ACU, 1.75-GB  memory]\(Standard S1 合計 100 ACU、1.75 GB メモリ\)**               |
 
 
-3. ページの下部の **[次へ: デプロイ]** をクリックしたら、 **[次へ: モニタリング]** を選択します。
+3. **[監視]タブ** を選択します。
 
 4. **[監視]** タブの **[Application Insights を有効にする]** で、**[いいえ]** のオプションを選択します。
 
@@ -96,7 +96,7 @@ ms.locfileid: "138132290"
    | **設定**             | **Value**                |
    | ----------------------- | ------------------------ |
    | 名前                    | **Contoso-TMProfilexx** (xx は、名前を一意にするための自分のイニシャルです) |
-   | ルーティング方法          | **優先順位**             |
+   | ルーティング方法          | **優先度**             |
    | サブスクリプション            | サブスクリプションを選択します。 |
    | Resource group          | **Contoso-RG-TM1**       |
    | リソース グループの場所 | **米国東部**              |

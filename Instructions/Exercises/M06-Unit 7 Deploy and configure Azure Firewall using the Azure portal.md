@@ -1,13 +1,7 @@
 ---
 Exercise:
   title: M06-ユニット 7 Azure portal を使用して Azure Firewall をデプロイして構成する
-  module: 'Module - Design and implement network security '
-ms.openlocfilehash: ed65009faa624ee3c7f50caefa33aa9abed2af21
-ms.sourcegitcommit: cc6b12857d97b72310f349592f5d4adbd371cc50
-ms.translationtype: HT
-ms.contentlocale: ja-JP
-ms.lasthandoff: 02/10/2022
-ms.locfileid: "138422797"
+  module: 'モジュール 06 - ネットワーク セキュリティの設計と実装'
 ---
 # <a name="m06-unit-7-deploy-and-configure-azure-firewall-using-the-azure-portal"></a>M06-ユニット 7 Azure portal を使用して Azure Firewall をデプロイして構成する
 

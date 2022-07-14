@@ -1,7 +1,7 @@
 ---
 Exercise:
     title: 'M03-ユニット 5 ExpressRoute 回線のプロビジョニング'
-    module: 'モジュール - Azure ExpressRoute の設計と実装'
+    module: 'モジュール 03 - Azure ExpressRoute の設計と実装'
 ---
 # M03-ユニット 5 ExpressRoute 回線のプロビジョニング
 

@@ -1,7 +1,7 @@
 ---
 Exercise:
   title: M02-ユニット 7 Azure portal を使用して仮想 WAN を作成する
-  module: Module - Design and implement hybrid networking
+  module: モジュール 02 - ハイブリッド ネットワークの設計と実装
 ms.openlocfilehash: d89f695085ff1284fa2a94e3875049a0619acaac
 ms.sourcegitcommit: 7e040d6fba448f60ca3262126db60cad96222bbc
 ms.translationtype: HT

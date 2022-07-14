@@ -1,13 +1,7 @@
 ---
 Exercise:
   title: M08 - ユニット 3 Azure Monitor を使用してロード バランサー リソースを監視する
-  module: Module - Design and implement network monitoring
-ms.openlocfilehash: 89bd32ceea640043e28d2aabfe1e448562468e16
-ms.sourcegitcommit: df554624b7c12a0aaa6b55f343b42c46ecfbc88c
-ms.translationtype: HT
-ms.contentlocale: ja-JP
-ms.lasthandoff: 02/09/2022
-ms.locfileid: "138132293"
+  module: モジュール 08 - ネットワーク監視の設計と実装
 ---
 # <a name="m08-unit-3-monitor-a-load-balancer-resource-using-azure-monitor"></a>M08 - ユニット 3 Azure Monitor を使用してロード バランサー リソースを監視する
 

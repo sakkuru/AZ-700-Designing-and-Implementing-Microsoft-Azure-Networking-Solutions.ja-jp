@@ -1,13 +1,7 @@
 ---
 Exercise:
   title: M05-ユニット 4 Azure Application Gateway をデプロイする
-  module: Module - Load balancing HTTP(S) traffic in Azure
-ms.openlocfilehash: 3ada3fed1e452c817bce8f52ee5418695023ab89
-ms.sourcegitcommit: 0717a1bd8290deb682974f4c4447f5fff87c220e
-ms.translationtype: HT
-ms.contentlocale: ja-JP
-ms.lasthandoff: 02/08/2022
-ms.locfileid: "138100344"
+  module: モジュール 05 - Azure で HTTP(S) トラフィックの負荷を分散する
 ---
 # <a name="m05-unit-4-deploy-azure-application-gateway"></a>M05-ユニット 4 Azure Application Gateway をデプロイする
  

@@ -1,7 +1,7 @@
 ---
 Exercise:
   title: M04-ユニット 6 Azure portal を使用して Traffic Manager プロファイルを作成する
-  module: Module - Load balancing non-HTTP(S) traffic in Azure
+  module: モジュール 04 - Azure で 非 HTTP(S) トラフィックの負荷を分散する
 ms.openlocfilehash: 0dc408c246bd44c0c0f3b6ca7de77a8db9e39f69
 ms.sourcegitcommit: df554624b7c12a0aaa6b55f343b42c46ecfbc88c
 ms.translationtype: HT

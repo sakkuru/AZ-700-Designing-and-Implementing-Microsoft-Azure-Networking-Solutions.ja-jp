@@ -1,7 +1,7 @@
 ---
 Exercise:
   title: M01-ユニット 6 Azure で DNS 設定を構成する
-  module: モジュール - Azure 仮想ネットワークの概要
+  module: モジュール 01 - Azure 仮想ネットワークの概要
 ms.openlocfilehash: e9def7c4f9c73455fa951706fe250f55f5f79152
 ms.sourcegitcommit: 7f291542d9277fb2ea77561bd0b097ffffbfb815
 ms.translationtype: HT

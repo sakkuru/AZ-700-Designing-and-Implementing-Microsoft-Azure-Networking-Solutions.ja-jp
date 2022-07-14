@@ -1,7 +1,7 @@
 ---
 Exercise:
   title: M02-ユニット 3 仮想ネットワーク ゲートウェイを作成および構成する
-  module: Module - Design and implement hybrid networking
+  module: モジュール 02 - ハイブリッド ネットワークの設計と実装
 ms.openlocfilehash: 85db6e283f4b1bfb8f57c110d3d3eadd9af2d755
 ms.sourcegitcommit: f63ebaa31399a7b2b37abc32ed64f24f3d40608c
 ms.translationtype: HT

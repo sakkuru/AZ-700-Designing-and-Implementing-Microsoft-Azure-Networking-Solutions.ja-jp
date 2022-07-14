@@ -1,7 +1,7 @@
 ---
 Exercise:
   title: M01-ユニット 8 グローバル仮想ネットワーク ピアリングを使用して 2 つの Azure 仮想ネットワークを接続する
-  module: Module - Introduction to Azure Virtual Networks
+  module: モジュール - Azure 仮想ネットワークの概要
 ms.openlocfilehash: 934ebb601aa0fb8a66b9493d1cb4b5d913005482
 ms.sourcegitcommit: cc6b12857d97b72310f349592f5d4adbd371cc50
 ms.translationtype: HT

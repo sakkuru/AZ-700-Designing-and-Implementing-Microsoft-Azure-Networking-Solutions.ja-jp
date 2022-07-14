@@ -1,13 +1,7 @@
 ---
 Exercise:
   title: M07-ユニット 6 Azure PowerShell を使用して Azure プライベート エンドポイントを作成する
-  module: Module - Design and implement private access to Azure Services
-ms.openlocfilehash: 01109a4761551d5aa4a91496184a974acb776a59
-ms.sourcegitcommit: 7126e5700382cbc0e414daa09f060358d36efc78
-ms.translationtype: HT
-ms.contentlocale: ja-JP
-ms.lasthandoff: 02/25/2022
-ms.locfileid: "139219638"
+  module: モジュール 07 - Azure サービスへのプライベートアクセスを設計および実装する
 ---
 # <a name="m07-unit-6-create-an-azure-private-endpoint-using-azure-powershell"></a>M07-ユニット 6 Azure PowerShell を使用して Azure プライベート エンドポイントを作成する
 

@@ -1,13 +1,7 @@
 ---
 Exercise:
   title: M07-ユニット 5 仮想ネットワーク サービス エンドポイントを使用して、PaaS リソースへのネットワーク アクセスを制限する
-  module: Module - Design and implement private access to Azure Services
-ms.openlocfilehash: 8c2767e40bf09e4df79012f8944720f53af729ee
-ms.sourcegitcommit: df554624b7c12a0aaa6b55f343b42c46ecfbc88c
-ms.translationtype: HT
-ms.contentlocale: ja-JP
-ms.lasthandoff: 02/09/2022
-ms.locfileid: "138132284"
+  module: モジュール 07 - Azure サービスへのプライベートアクセスを設計および実装する
 ---
 # <a name="m07-unit-5-restrict-network-access-to-paas-resources-with-virtual-network-service-endpoints"></a>M07-ユニット 5 仮想ネットワーク サービス エンドポイントを使用して、PaaS リソースへのネットワーク アクセスを制限する
 

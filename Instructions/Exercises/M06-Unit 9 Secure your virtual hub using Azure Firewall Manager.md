@@ -1,13 +1,7 @@
 ---
 Exercise:
   title: M06-ユニット 9 Azure Firewall Manager を使用して仮想ハブのセキュリティを保護する
-  module: Module - Design and implement network security
-ms.openlocfilehash: bcab244740a8a49f7923a9a8aa782a10c93d13b1
-ms.sourcegitcommit: cc6b12857d97b72310f349592f5d4adbd371cc50
-ms.translationtype: HT
-ms.contentlocale: ja-JP
-ms.lasthandoff: 02/10/2022
-ms.locfileid: "138422788"
+  module: モジュール 06 - ネットワーク セキュリティの設計と実装
 ---
 # <a name="m06-unit-9-secure-your-virtual-hub-using-azure-firewall-manager"></a>M06-ユニット 9 Azure Firewall Manager を使用して仮想ハブのセキュリティを保護する
 

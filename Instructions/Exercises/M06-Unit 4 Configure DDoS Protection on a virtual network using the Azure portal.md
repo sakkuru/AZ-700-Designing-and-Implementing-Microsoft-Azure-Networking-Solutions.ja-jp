@@ -1,13 +1,7 @@
 ---
 Exercise:
   title: M06-ユニット 4 Azure portal を使用して仮想ネットワーク上に DDoS Protection を構成する
-  module: Module - Design and implement network security
-ms.openlocfilehash: 8a0e95de6a9dc9cdb26a13fd71719769c9715e95
-ms.sourcegitcommit: cc6b12857d97b72310f349592f5d4adbd371cc50
-ms.translationtype: HT
-ms.contentlocale: ja-JP
-ms.lasthandoff: 02/10/2022
-ms.locfileid: "138422800"
+  module: モジュール 06 - ネットワーク セキュリティの設計と実装 
 ---
 # <a name="m06-unit-4-configure-ddos-protection-on-a-virtual-network-using-the-azure-portal"></a>M06-ユニット 4 Azure portal を使用して仮想ネットワーク上に DDoS Protection を構成する
 
